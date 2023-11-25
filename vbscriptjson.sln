@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vbscriptjson", ".", "{F02B52BF-6B2C-4474-8D33-09DA16C1BE67}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56013"
+		Debug.AspNetCompiler.PhysicalPath = "..\vbscriptjson\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56013\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56013"
+		Release.AspNetCompiler.PhysicalPath = "..\vbscriptjson\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56013\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56013"
+		SlnRelativePath = "..\vbscriptjson\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02B52BF-6B2C-4474-8D33-09DA16C1BE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02B52BF-6B2C-4474-8D33-09DA16C1BE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9D9927-7946-4FD5-A2F1-F1593F964427}
+	EndGlobalSection
+EndGlobal
